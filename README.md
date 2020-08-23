@@ -16,7 +16,7 @@
 
 ![DistVeloGalaxy2](https://user-images.githubusercontent.com/42389358/90967488-2af63b80-e49d-11ea-974d-bfd0213e5b37.jpg)
 
-![OLS Hubble(Log of distance)](https://user-images.githubusercontent.com/42389358/90967491-2df12c00-e49d-11ea-8779-02d6ad911418.png)
+<img width="538" alt="OLS Log of distance" src="https://user-images.githubusercontent.com/42389358/90968175-b58f6880-e4a6-11ea-8629-f9b75d98bf6b.png">
 
 ![KmeansGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967489-2c276880-e49d-11ea-8fc6-cd72afdf4e20.png)
 
