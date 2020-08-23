@@ -22,7 +22,7 @@
 
 ![DBSCANGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967486-229e0080-e49d-11ea-9bc3-5da99069138b.png)
 
-![SnsPairPlot](https://user-images.githubusercontent.com/42389358/90967493-2e89c280-e49d-11ea-93d3-5c0555079bb2.jpg)
+![SnsPairPlot](https://user-images.githubusercontent.com/42389358/90968046-3188b100-e4a5-11ea-869e-c5b05b9036b2.png)
 
 ![SVMGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967494-2e89c280-e49d-11ea-9231-0794a8158fdb.png)
 
