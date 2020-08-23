@@ -14,17 +14,22 @@
 
 
 
-![DistVeloGalaxy2](https://user-images.githubusercontent.com/42389358/90967488-2af63b80-e49d-11ea-974d-bfd0213e5b37.jpg)
+![DBSCANGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90968300-fb98fc00-e4a7-11ea-97a3-f5538c133821.png)
 
-<img width="542" alt="OLS Log of distance" src="https://user-images.githubusercontent.com/42389358/90968225-47977100-e4a7-11ea-9bc9-d8973ab31b5d.png">
+![DistVeloGalaxy2](https://user-images.githubusercontent.com/42389358/90968301-fe93ec80-e4a7-11ea-948f-7aff4f8727f5.jpg)
 
-![KmeansGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967489-2c276880-e49d-11ea-8fc6-cd72afdf4e20.png)
+![KmeansGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90968302-ff2c8300-e4a7-11ea-9c7d-7decbd03618c.png)
 
-![DBSCANGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967486-229e0080-e49d-11ea-9bc3-5da99069138b.png)
+![KNNGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90968303-ffc51980-e4a7-11ea-84a5-7e6fc4bd90a7.png)
 
-![SnsPairPlot](https://user-images.githubusercontent.com/42389358/90968046-3188b100-e4a5-11ea-869e-c5b05b9036b2.png)
+<img width="542" alt="OLS Log of distance" src="https://user-images.githubusercontent.com/42389358/90968304-005db000-e4a8-11ea-855a-4d7b4a5d6a78.png">
 
-![SVMGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967494-2e89c280-e49d-11ea-9231-0794a8158fdb.png)
+![ScatterGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90968305-005db000-e4a8-11ea-911d-c58dd1e06038.png)
 
-![KNNGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90967490-2d589580-e49d-11ea-9429-d8e382e9656c.png)
+![SnsPairPlot](https://user-images.githubusercontent.com/42389358/90968306-00f64680-e4a8-11ea-909b-d98d71e7c168.png)
+
+![SVMGalaxyColorMagDiagram](https://user-images.githubusercontent.com/42389358/90968307-02277380-e4a8-11ea-8940-a38c5bfd5749.png)
+
+
+
 
